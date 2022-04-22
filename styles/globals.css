@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.project-green-text {
+    color: #0CF90C;
+}
+#btn{
+    background-color: #0CF90C;
+}
+.navbar-logo,.navbar-home{
+	color:#fff;
+}
+
